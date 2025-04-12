@@ -1,20 +1,20 @@
 [
     {
-        "title": "title",
-        "price": 123,
+        "title": "Піца 4 сири",
+        "price": 199,
         "image": "img",
-        "description": "decr"
+        "description": "Cоус вершковий, сир моцарела, сир дор блю, сир королівський, сир пармезан"
     },
     {
-        "title": "title",
-        "price": 123,
+        "title": "Піца 4 м'яса",
+        "price": 199,
         "image": "img",
-        "description": "decr"
+        "description": "Червоний соус, моцарела, шинка, салямі, бочок, мисливські ковбаски."
     },
     {
-        "title": "title",
-        "price": 123,
+        "title": "Піца Пепероні",
+        "price": 149,
         "image": "img",
-        "description": "decr"
+        "description": "Соус томатний, сир моцарела, пеперон"
     }
 ]
